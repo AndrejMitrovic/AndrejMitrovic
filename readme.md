@@ -1,4 +1,4 @@
-### Hi 👋 I'm drey.
+### Hi 👋 I'm Andrej.
 - 🚀 I’m currently working in Securities Lending. My previous work experience includes Blockchain, RTB.
 - 📨 Reach me on [LinkedIn](https://www.linkedin.com/in/andrej-mitrovi%C4%87-11101598/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BS3CRvue2SPWL%2FKIVVQBhTg%3D%3D) or via e-mail: `andrej.mitrovich >> at >> gmail`
 - ➡ Another overview of my open-source contributions is on my [OpenHub Profile](https://www.openhub.net/accounts/AndrejMitrovic).
